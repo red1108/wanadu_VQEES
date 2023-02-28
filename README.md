@@ -1,0 +1,2 @@
+# wanadu_VQEES
+We implement the adaptative optimizer Refoqus and apply it to different problems of interest, among which is a variational algorithm to devise new potential error-correction codes for quantum memory (i.e., able to extend the maximum idle time after which a quantum state cannot be recovered anymore). We also demonstrate the usage of NVidia cuQuantum through the use of the lightning.gpu device and show that it is able to speed-up the VQA optimisation on a consummer-grade laptop when compared to its CPU equivalent lightning.qubit.
